@@ -1,6 +1,7 @@
-#MarsRoverProject
+# MarsRoverProject
+You can download the project this link and you can use in properly. This project created in Visual Studio 2019. Visual Studio 2019 would execute the project succesfully.
 
-#Scenario:
+# Scenario:
 
 1. All inputs read from "Inputs\inputs.txt" file.
 2. Then Planet create according to given planet inputs of first line.
@@ -12,7 +13,7 @@ When the rover reachs the any of planet bound, then it cannot go the forward unt
 
 
 
-#Mark Ups:
+# Mark Ups:
 
 0. Inputs are readed from file. Path : "Inputs\inputs.txt"
 1. "Rover" class implemented by "IRover" interface in "Business\Entities\Interface"

@@ -1,4 +1,4 @@
-# MarsRoverProject
+# Mars Rover Project
 You can download the project this link and you can use in properly. This project created in Visual Studio 2019. Visual Studio 2019 would execute the project succesfully.
 
 ## Scenario:

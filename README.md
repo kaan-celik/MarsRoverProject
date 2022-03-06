@@ -1,6 +1,9 @@
 # Mars Rover Project
 You can download the project this link and you can use in properly. This project created in Visual Studio 2019. Visual Studio 2019 would execute the project succesfully.
 
+## Aim:
+According to given coordinates and commands. Complete the movement of rover on the planet. 
+
 ## Scenario:
 
 1. All inputs read from "Inputs\inputs.txt" file.

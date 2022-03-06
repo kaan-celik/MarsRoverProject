@@ -1,0 +1,9 @@
+D:\Projects\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+D:\Projects\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+D:\Projects\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cache
+D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+D:\Projects\MarsRover\MarsRover\bin\Debug\Input\input.txt
+D:\Projects\MarsRover\MarsRover\bin\Debug\README.md
